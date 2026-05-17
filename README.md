@@ -81,8 +81,6 @@ $miguel = [
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miike96&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miike96&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800)
-
 </div>
 
 ---
